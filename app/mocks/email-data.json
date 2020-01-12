@@ -1,0 +1,50 @@
+{
+    "invite": {
+        "to": "<invite-mail>",
+        "from": "do-not-reply@plantedpeople.com",
+        "subject": "You're Invited! - Planted People",
+        "text": "You have been invited to join the Planted People Beta.\n\nPlease click on the following link, or paste this into your browser to register:\n\nhttps:/\/www.plantedpeople.com/register/<invite-token>\n"
+    },
+    "confirmEmail": {
+        "to": "<user-email>",
+        "from": "do-not-reply@plantedpeople.com",
+        "subject": "Please confirm your email (user.email) - Planted People",
+        "text": "You are receiving this because you have signed up for an account with Planted People.\n\nPlease click on the following link, or paste this into your browser to confirm your email address:\n\nhttps:/\/www.plantedpeople.com/confirm/<email-confirm-token>\n\nIf you did not sign up for Planted People, please ignore this email.\n"
+    },
+    "signup": {
+        "to": "<user-email>",
+        "from": "do-not-reply@plantedpeople.com",
+        "subject": "Please confirm your email (<user-email>) - Planted People",
+        "text": "You are receiving this because you have signed up for an account with Planted People.\n\nPlease click on the following link, or paste this into your browser to confirm your email address:\n\nhttps:/\/www.plantedpeople.com/confirm/<token>\n\nIf you did not sign up for Planted People, please ignore this email.\n"
+    },
+    "confirmComplete": {
+        "to": "<user-email>",
+        "from": "do-not-reply@plantedpeople.com",
+        "subject": "Welcome to Planted People",
+        "text": "Hello,\n\nWelcome to Planted People, you can login to your account at the link below to get started.\n\nhttps:/\/www.plantedpeople.com/login"
+    },
+    "contact": {
+        "to": "info@plantedpeople.com",
+        "from": "<user-email>",
+        "subject": "Contact Form (<user-name>) - Planted People",
+        "text": "Begin message:\n\nSubject: <subject>\n\n<input-message>\n"
+    },
+    "forgotPassword": {
+        "to": "<user-email>",
+        "from": "do-not-reply@plantedpeople.com",
+        "subject": "Password Reset - Planted People",
+        "text": "You are receiving this because you (or someone else) have requested the reset of the password for your account.\n\nPlease click on the following link, or paste this into your browser to complete the process:\n\nhttps:/\/www.plantedpeople.com/reset/<token>\n\nIf you did not request this, please ignore this email and your password will remain unchanged.\n"
+    },
+    "passwordReset": {
+        "to": "<user-email>",
+        "from": "do-not-reply@plantedpeople.com",
+        "subject": "Your password has been changed - Planted People",
+        "text": "Hello,\n\nThis is a confirmation that the password for your account <user.email> has just been changed.\n"
+    },
+    "businessApproved": {
+        "to": "<business-admin-email>",
+        "from": "do-not-reply@plantedpeople.com",
+        "subject": "Business Request Approved - Planted People",
+        "text": "Hello,\n\nThis is a confirmation that your business account (<company-name>) has just been approved.\n"
+    }
+}
