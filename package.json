@@ -41,7 +41,7 @@
     "morgan": "1.8.2",
     "newrelic": "2.2.2",
     "node-mandrill": "1.0.1",
-    "nodemailer": "4.3.1",
+    "nodemailer": "6.4.16",
     "nodemailer-mandrill-transport": "1.2.0",
     "plivo": "0.4.1",
     "q": "1.5.0",
